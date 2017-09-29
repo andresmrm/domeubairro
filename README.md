@@ -1,3 +1,10 @@
+**VERSÃO ANTIGA, DESCONTINUADA.**
+
+- [Grupo com todos os repositórios da nova versão](https://gitlab.com/cuidandodomeubairro)
+- [Cópia desse repositório dentro do novo grupo, para fins históricos](https://gitlab.com/cuidandodomeubairro/cuidando-antigo-v1)
+
+---
+
 ## Cuidando do meu Bairro 
 
 http://cuidando.org.br
