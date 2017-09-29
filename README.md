@@ -1,3 +1,7 @@
+# **Essa é uma versão antiga, descontinuada. [Link com repositórios da nova versão.](http://repo.cuidando.vc)**
+
+---
+
 ## Cuidando do meu Bairro 
 
 http://cuidando.org.br
