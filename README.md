@@ -1,7 +1,4 @@
-**VERSÃO ANTIGA, DESCONTINUADA.**
-
-- [Grupo com todos os repositórios da nova versão](https://gitlab.com/cuidandodomeubairro)
-- [Cópia desse repositório dentro do novo grupo, para fins históricos](https://gitlab.com/cuidandodomeubairro/cuidando-antigo-v1)
+# **Essa é uma versão antiga, descontinuada. [Link com repositórios da nova versão.](http://repo.cuidando.vc)**
 
 ---
 
